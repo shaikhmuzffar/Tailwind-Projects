@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.arrowDown {
+    color: white; /* Set the color to white or any other color you prefer */
+  }
+  
